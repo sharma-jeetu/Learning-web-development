@@ -1,0 +1,12 @@
+<!--SEO= Search Engine Optimization-->
+
+<!-- Core web vitals # it's help to consider for running page in browser.
+ 1. CLS = Comulative layout shift
+ 2. LCP = Largest contentful paint # yeh btata hai ki jo large image/video  ki file jo hai usko lode hone mein kitna time lag rha hai.
+ 3. FID = First Input Delay # iska kaam hota hai yeh show karna ki jo user ne input diya uska output meri website ya fir us input ka reply meri website kitne
+            der mein de paa rhi hai. -->
+
+ <!-- yeh 3 important core web vital hai.-->
+
+
+  
